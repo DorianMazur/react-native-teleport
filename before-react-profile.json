@@ -1,0 +1,331 @@
+{
+  "device": "iPhone 17 simulator (iOS 27.2)",
+  "runtime": "Hermes / React 19.2 / React Native 0.83, development profiling",
+  "workload": "6 stable portals, 1 stable named host, 8 distinct transient hosts mounted then unmounted",
+  "cycles": 8,
+  "owners": 96,
+  "hosts": 16,
+  "retained": 8,
+  "samples": [
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 1.2735000252723694,
+      "baseDuration": 0.942209005355835,
+      "startTime": 288844695.571958,
+      "commitTime": 288844697.101583
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.41817110776901245,
+      "baseDuration": 0.7975817322731018,
+      "startTime": 288844699.176083,
+      "commitTime": 288844700.014958
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.07754093408584595,
+      "baseDuration": 0.9202080368995667,
+      "startTime": 288844699.759166,
+      "commitTime": 288844700.014958
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 2.2414591312408447,
+      "baseDuration": 2.147294044494629,
+      "startTime": 288844794.06125,
+      "commitTime": 288844796.601416
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.1870860457420349,
+      "baseDuration": 0.6173287630081177,
+      "startTime": 288844801.703041,
+      "commitTime": 288844802.022541
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.869001030921936,
+      "baseDuration": 0.4577510356903076,
+      "startTime": 288844893.591,
+      "commitTime": 288844894.751958
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.6341619491577148,
+      "baseDuration": 0.9696648120880127,
+      "startTime": 288844896.1285,
+      "commitTime": 288844897.408333
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.10425388813018799,
+      "baseDuration": 0.4335020184516907,
+      "startTime": 288844897.072125,
+      "commitTime": 288844897.408333
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.41695690155029297,
+      "baseDuration": 0.30595898628234863,
+      "startTime": 288844994.060291,
+      "commitTime": 288844994.743875
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.4608343243598938,
+      "baseDuration": 0.8286619186401367,
+      "startTime": 288844995.71525,
+      "commitTime": 288844996.526541
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.7219128608703613,
+      "baseDuration": 0.3912920355796814,
+      "startTime": 288845094.028333,
+      "commitTime": 288845094.961666
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.47837120294570923,
+      "baseDuration": 0.8467888832092285,
+      "startTime": 288845096.128833,
+      "commitTime": 288845097.0765
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.08171004056930542,
+      "baseDuration": 0.3599180579185486,
+      "startTime": 288845096.794708,
+      "commitTime": 288845097.0765
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.48454010486602783,
+      "baseDuration": 0.33587414026260376,
+      "startTime": 288845194.121791,
+      "commitTime": 288845194.939041
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.481711745262146,
+      "baseDuration": 0.8437057137489319,
+      "startTime": 288845196.384791,
+      "commitTime": 288845197.223
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.7757510542869568,
+      "baseDuration": 0.42145800590515137,
+      "startTime": 288845294.182583,
+      "commitTime": 288845295.175625
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.4611690044403076,
+      "baseDuration": 0.8286657929420471,
+      "startTime": 288845296.268541,
+      "commitTime": 288845297.16475
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.08091789484024048,
+      "baseDuration": 0.38041698932647705,
+      "startTime": 288845296.913458,
+      "commitTime": 288845297.16475
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.4295831322669983,
+      "baseDuration": 0.31250011920928955,
+      "startTime": 288845394.120083,
+      "commitTime": 288845394.877541
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.6606629490852356,
+      "baseDuration": 0.9909117221832275,
+      "startTime": 288845396.408375,
+      "commitTime": 288845397.46575
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.8745840787887573,
+      "baseDuration": 0.4632929563522339,
+      "startTime": 288845494.101666,
+      "commitTime": 288845495.287208
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.46562308073043823,
+      "baseDuration": 0.8346229195594788,
+      "startTime": 288845496.494791,
+      "commitTime": 288845497.428333
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.09158295392990112,
+      "baseDuration": 0.423583984375,
+      "startTime": 288845497.148083,
+      "commitTime": 288845497.428333
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.4178340435028076,
+      "baseDuration": 0.30500102043151855,
+      "startTime": 288845594.061875,
+      "commitTime": 288845594.8
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.4626258611679077,
+      "baseDuration": 0.830538809299469,
+      "startTime": 288845596.214041,
+      "commitTime": 288845597.02075
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.8598729968070984,
+      "baseDuration": 0.46108299493789673,
+      "startTime": 288845693.583708,
+      "commitTime": 288845694.746666
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.45924508571624756,
+      "baseDuration": 0.8303287625312805,
+      "startTime": 288845696.300416,
+      "commitTime": 288845697.225666
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.09095698595046997,
+      "baseDuration": 0.42308294773101807,
+      "startTime": 288845696.945791,
+      "commitTime": 288845697.225666
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.255959153175354,
+      "baseDuration": 0.18141710758209229,
+      "startTime": 288845792.990375,
+      "commitTime": 288845793.408375
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.3792058229446411,
+      "baseDuration": 0.7669137716293335,
+      "startTime": 288845794.227291,
+      "commitTime": 288845794.941583
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.315123975276947,
+      "baseDuration": 0.15958303213119507,
+      "startTime": 288845893.175041,
+      "commitTime": 288845893.587208
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.42850106954574585,
+      "baseDuration": 0.6182869076728821,
+      "startTime": 288845894.086166,
+      "commitTime": 288845894.708208
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.037332117557525635,
+      "baseDuration": 0.15683311223983765,
+      "startTime": 288845894.592916,
+      "commitTime": 288845894.708208
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.32054102420806885,
+      "baseDuration": 0.23441696166992188,
+      "startTime": 288845993.992708,
+      "commitTime": 288845994.523791
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.46729010343551636,
+      "baseDuration": 0.8347036838531494,
+      "startTime": 288845995.824291,
+      "commitTime": 288845996.639833
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.32070690393447876,
+      "baseDuration": 0.16178995370864868,
+      "startTime": 288846093.257083,
+      "commitTime": 288846093.668083
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.188335120677948,
+      "baseDuration": 0.6191639304161072,
+      "startTime": 288846094.177958,
+      "commitTime": 288846094.548375
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.034208059310913086,
+      "baseDuration": 0.15470707416534424,
+      "startTime": 288846094.441291,
+      "commitTime": 288846094.548375
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.16516804695129395,
+      "baseDuration": 0.11525100469589233,
+      "startTime": 288846193.782875,
+      "commitTime": 288846194.038
+    },
+    {
+      "id": "list portals",
+      "phase": "update",
+      "actualDuration": 0.18820703029632568,
+      "baseDuration": 0.6192048788070679,
+      "startTime": 288846194.512083,
+      "commitTime": 288846194.83325
+    }
+  ]
+}

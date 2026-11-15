@@ -1,0 +1,139 @@
+{
+  "device": "iPhone 17 simulator (iOS 27.2)",
+  "runtime": "Hermes / React 19.2 / React Native 0.83, development profiling",
+  "workload": "6 stable portals, 1 stable named host, 8 distinct transient hosts mounted then unmounted",
+  "cycles": 8,
+  "owners": 0,
+  "hosts": 0,
+  "retained": 0,
+  "samples": [
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 2.861041843891144,
+      "baseDuration": 2.3512898087501526,
+      "startTime": 288885511.022666,
+      "commitTime": 288885514.011083
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 1.0055009722709656,
+      "baseDuration": 0.9566240310668945,
+      "startTime": 288885609.929958,
+      "commitTime": 288885611.032625
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.35895800590515137,
+      "baseDuration": 0.18787497282028198,
+      "startTime": 288885709.533083,
+      "commitTime": 288885709.984875
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.27829283475875854,
+      "baseDuration": 0.20850086212158203,
+      "startTime": 288885810.401041,
+      "commitTime": 288885810.867416
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.7283309102058411,
+      "baseDuration": 0.3987898826599121,
+      "startTime": 288885910.701166,
+      "commitTime": 288885911.712791
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.27553802728652954,
+      "baseDuration": 0.20566493272781372,
+      "startTime": 288886010.663583,
+      "commitTime": 288886011.134
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.8531218767166138,
+      "baseDuration": 0.46224790811538696,
+      "startTime": 288886109.742916,
+      "commitTime": 288886110.913458
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.24324887990951538,
+      "baseDuration": 0.18441593647003174,
+      "startTime": 288886210.523291,
+      "commitTime": 288886210.923875
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.7511259317398071,
+      "baseDuration": 0.418708860874176,
+      "startTime": 288886309.721875,
+      "commitTime": 288886310.7285
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.3277490735054016,
+      "baseDuration": 0.24933207035064697,
+      "startTime": 288886410.436083,
+      "commitTime": 288886410.960208
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.7095410227775574,
+      "baseDuration": 0.38766592741012573,
+      "startTime": 288886510.657333,
+      "commitTime": 288886511.668958
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.43687593936920166,
+      "baseDuration": 0.3250828981399536,
+      "startTime": 288886609.736125,
+      "commitTime": 288886610.503916
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.9210019707679749,
+      "baseDuration": 0.5005419254302979,
+      "startTime": 288886710.734541,
+      "commitTime": 288886712.005208
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.43000108003616333,
+      "baseDuration": 0.3231659531593323,
+      "startTime": 288886810.677958,
+      "commitTime": 288886811.407625
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.5506250262260437,
+      "baseDuration": 0.2938750386238098,
+      "startTime": 288886910.569166,
+      "commitTime": 288886911.303375
+    },
+    {
+      "id": "detail host",
+      "phase": "update",
+      "actualDuration": 0.3730400800704956,
+      "baseDuration": 0.2784159183502197,
+      "startTime": 288887010.649833,
+      "commitTime": 288887011.290791
+    }
+  ]
+}
